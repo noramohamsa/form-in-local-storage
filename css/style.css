@@ -1,0 +1,39 @@
+
+.container{
+    margin: auto;
+    display: block;
+    /* border: 1px solid red; */
+    width: 90%;
+}
+
+#styl{
+    width:100%;
+    border: 3px solid blue;
+    /* background-color: grey; */
+    margin-top: 20px;
+}
+
+#styl tr td{
+    border: 1px solid blue;
+    width: 25%;
+}
+#styl tr th{
+    color: blue;
+    font-weight: bold;
+}
+input{
+    width:10%;
+    height: 30px;
+}
+button{
+    background-color: black;
+    color: white;
+    border: 0;
+    padding: 10px;
+    font-size: 15px;
+}
+label{
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+}
